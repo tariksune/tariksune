@@ -6,4 +6,4 @@ I am a computer engineer who aims at analytical thinking, likes to do research a
 #### #wheretofindme 📍
 - twitter: https://www.twitter.com/tariksune
 - linkedin: https://linkedin.com/in/tariksune
-- medium: https://www.medium.com/@tariksune
+- blog: https://blog.tariksune.com
